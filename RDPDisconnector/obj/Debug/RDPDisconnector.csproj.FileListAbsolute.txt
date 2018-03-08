@@ -1,0 +1,14 @@
+C:\Users\VIKTOR\source\repos\RDPDisconnector\RDPDisconnector\bin\Debug\RDPDisconnector.exe.config
+C:\Users\VIKTOR\source\repos\RDPDisconnector\RDPDisconnector\bin\Debug\RDPDisconnector.exe
+C:\Users\VIKTOR\source\repos\RDPDisconnector\RDPDisconnector\bin\Debug\RDPDisconnector.pdb
+C:\Users\VIKTOR\source\repos\RDPDisconnector\RDPDisconnector\obj\Debug\RDPDisconnector.csprojResolveAssemblyReference.cache
+C:\Users\VIKTOR\source\repos\RDPDisconnector\RDPDisconnector\obj\Debug\MainWindow.baml
+C:\Users\VIKTOR\source\repos\RDPDisconnector\RDPDisconnector\obj\Debug\MainWindow.g.cs
+C:\Users\VIKTOR\source\repos\RDPDisconnector\RDPDisconnector\obj\Debug\App.g.cs
+C:\Users\VIKTOR\source\repos\RDPDisconnector\RDPDisconnector\obj\Debug\RDPDisconnector_MarkupCompile.cache
+C:\Users\VIKTOR\source\repos\RDPDisconnector\RDPDisconnector\obj\Debug\RDPDisconnector.g.resources
+C:\Users\VIKTOR\source\repos\RDPDisconnector\RDPDisconnector\obj\Debug\RDPDisconnector.Properties.Resources.resources
+C:\Users\VIKTOR\source\repos\RDPDisconnector\RDPDisconnector\obj\Debug\RDPDisconnector.csproj.GenerateResource.Cache
+C:\Users\VIKTOR\source\repos\RDPDisconnector\RDPDisconnector\obj\Debug\RDPDisconnector.csproj.CoreCompileInputs.cache
+C:\Users\VIKTOR\source\repos\RDPDisconnector\RDPDisconnector\obj\Debug\RDPDisconnector.exe
+C:\Users\VIKTOR\source\repos\RDPDisconnector\RDPDisconnector\obj\Debug\RDPDisconnector.pdb
